@@ -1,0 +1,6 @@
+C:\Users\Maksim_Yaskevich\Desktop\C# training\CSharp in Mexico\ClassLibForFramework\ClassLibForFramework\bin\Debug\ClassLibForFramework.dll
+C:\Users\Maksim_Yaskevich\Desktop\C# training\CSharp in Mexico\ClassLibForFramework\ClassLibForFramework\bin\Debug\ClassLibForFramework.pdb
+C:\Users\Maksim_Yaskevich\Desktop\C# training\CSharp in Mexico\ClassLibForFramework\ClassLibForFramework\obj\Debug\ClassLibForFramework.csproj.AssemblyReference.cache
+C:\Users\Maksim_Yaskevich\Desktop\C# training\CSharp in Mexico\ClassLibForFramework\ClassLibForFramework\obj\Debug\ClassLibForFramework.csproj.CoreCompileInputs.cache
+C:\Users\Maksim_Yaskevich\Desktop\C# training\CSharp in Mexico\ClassLibForFramework\ClassLibForFramework\obj\Debug\ClassLibForFramework.dll
+C:\Users\Maksim_Yaskevich\Desktop\C# training\CSharp in Mexico\ClassLibForFramework\ClassLibForFramework\obj\Debug\ClassLibForFramework.pdb

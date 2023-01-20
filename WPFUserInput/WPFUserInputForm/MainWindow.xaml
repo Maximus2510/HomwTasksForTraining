@@ -1,0 +1,14 @@
+﻿<Window x:Class="WPFUserInputForm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFUserInputForm"
+        mc:Ignorable="d"
+        Title="User Input" Height="200" Width="300">
+    <Grid>
+        <Label x:Name="LabelEnterName" Height="30" Width="150" HorizontalAlignment="left" VerticalAlignment="Top" Content="Enter your name:" />
+        <TextBox x:Name="NameEnterTextBox" Height="30" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,30,0,0" Background="AntiqueWhite"/>
+        <Button x:Name="ClickButton" Height="30" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,80,0,0" Background="Gray" Content="Click!" Click="ClickButton_Click"/>
+    </Grid>
+</Window>
